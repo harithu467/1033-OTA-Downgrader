@@ -1,4 +1,4 @@
-# 10.3.3 OTA Downgrade Script
+# 10.3.3 OTA Downgrade Script.
  Script to downgrade ANY iPhone 5s, iPad Air and (almost any) iPad Mini 2 to 10.3.3 with OTA blobs
  
 Please read this before doing ANYTHING
